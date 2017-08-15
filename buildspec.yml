@@ -4,3 +4,7 @@ env:
   variables:
     key: "test1"
     key: "value"
+	
+artifacts:
+	files:
+		- '**/*'
