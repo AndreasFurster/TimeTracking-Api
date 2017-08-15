@@ -1,0 +1,6 @@
+version: 0.0.1
+
+env:
+  variables:
+    key: "test1"
+    key: "value"
